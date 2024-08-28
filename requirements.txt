@@ -2,4 +2,5 @@ numpy
 pandas
 matplotlib
 pytest
+pytest-cov
 pylint
